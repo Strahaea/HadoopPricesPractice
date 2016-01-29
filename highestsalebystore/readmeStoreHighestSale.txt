@@ -1,0 +1,1 @@
+Finds the highest sale in each store

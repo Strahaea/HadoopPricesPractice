@@ -1,0 +1,1 @@
+This mapper and reducer work on the prices data to get the sales total for each store

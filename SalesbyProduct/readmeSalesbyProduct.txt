@@ -1,0 +1,1 @@
+This mapper and reducer find the total sales for each item in the prices dataset.
