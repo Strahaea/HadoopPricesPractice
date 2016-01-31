@@ -1,4 +1,4 @@
-# HadoopSalesDataPractice
+# Hadoop Sales Data Practice
 First part of the project in Lesson3 for Udacity/Cloudera's Intro to Hadoop/Mapreduce Course.
 Uses python mappers and reducers on HDFS to analyze a large dataset (200MB) containing sales information for many  
 branches of a chain retailer. 
